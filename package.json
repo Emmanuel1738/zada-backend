@@ -1,0 +1,14 @@
+{
+  "name": "zada-backend",
+  "version": "1.0.0",
+  "description": "ZADA STK Push Backend - Psalms Christian Ministry",
+  "main": "zada-backend.js",
+  "scripts": {
+    "start": "node zada-backend.js",
+    "dev": "nodemon zada-backend.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
